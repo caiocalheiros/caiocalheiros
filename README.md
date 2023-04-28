@@ -2,7 +2,7 @@
 
 - 🌱 Studying Front-End, Back-End
 - ✨ Lover programming
-- 👨‍💻 Discord: Constante Mudança
+- 👨‍💻 Discord: caiotito#9642
 
 <div style="display: inline_block"><br>
   <img align="center" alt="caiotito-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
